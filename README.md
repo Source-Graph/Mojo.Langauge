@@ -3,6 +3,7 @@ sch: https://www.google.com/search?q=python+mojo
 
 # Home:
 Site: [modular.com/mojo](https://www.modular.com/mojo)
+- Doc: https://docs.modular.com/
 - source: https://github.com/modularml/mojo
 - waitlist: https://www.modular.com/get-started
 

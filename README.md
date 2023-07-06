@@ -8,7 +8,8 @@ Site: [modular.com/mojo](https://www.modular.com/mojo)
 - waitlist: https://www.modular.com/get-started
 
 ## Channel:
-- Youtube: [@modularinc](https://www.youtube.com/@modularinc)
+Youtube: [@modularinc](https://www.youtube.com/@modularinc)
+
 video:
 - [Product Launch 2023 Keynote](https://youtu.be/-3Kf2ZZU-dg)
 - [Next-generation AI Developer Platform | Modular](https://youtu.be/PA1b2yhfTxY)

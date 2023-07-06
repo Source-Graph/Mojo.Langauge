@@ -1,7 +1,7 @@
 # Mojo.Langauge
 sch: https://www.google.com/search?q=python+mojo
 
-# Home: https://www.modular.com/mojo
+# Home: [modular.com/mojo](https://www.modular.com/mojo)
 - source: https://github.com/modularml/mojo
 
 # Guide:

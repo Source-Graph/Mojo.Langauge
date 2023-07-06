@@ -7,10 +7,11 @@ Site: [modular.com/mojo](https://www.modular.com/mojo)
 - source: https://github.com/modularml/mojo
 - waitlist: https://www.modular.com/get-started
 
-Channel:
+## Channel:
 - Youtube: [@modularinc](https://www.youtube.com/@modularinc)
-  video:
-  - [Product Launch 2023 Keynote](https://youtu.be/-3Kf2ZZU-dg)
+video:
+- [Product Launch 2023 Keynote](https://youtu.be/-3Kf2ZZU-dg)
+- [Next-generation AI Developer Platform | Modular](https://youtu.be/PA1b2yhfTxY)
 
 # People.Jeremy Howard
 video:

@@ -7,6 +7,11 @@ Site: [modular.com/mojo](https://www.modular.com/mojo)
 - source: https://github.com/modularml/mojo
 - waitlist: https://www.modular.com/get-started
 
+Channel:
+- Youtube: [@modularinc](https://www.youtube.com/@modularinc)
+  video:
+  - [Product Launch 2023 Keynote](https://youtu.be/-3Kf2ZZU-dg)
+
 # People.Jeremy Howard
 video:
 - [Jeremy Howard demo for Mojo launch](https://youtu.be/6GvB5lZJqcE)
